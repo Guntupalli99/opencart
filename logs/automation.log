@@ -1,0 +1,7 @@
+08:35:57.655 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+08:55:00.023 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+08:55:05.722 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+08:55:08.840 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+08:56:52.317 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+08:56:56.619 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+08:56:59.614 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****

@@ -1,0 +1,59 @@
+11:20:20.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:20:20.027 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:20:20.042 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:20:20.086 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+11:20:23.855 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+11:20:23.866 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+11:20:27.081 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+11:20:39.515 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+11:20:39.521 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+11:20:51.330 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+11:20:51.335 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+11:20:54.538 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:12:35.100 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+16:12:36.222 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\Grouping.xml
+
+16:13:31.618 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+16:13:32.054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\Grouping.xml
+
+16:13:38.776 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+16:13:38.915 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+16:13:39.984 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on my register link
+16:13:39.984 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+16:13:44.162 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue........
+16:13:44.215 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message....
+16:13:44.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ******
+16:13:46.759 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+16:13:50.161 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+20:11:54.668 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+20:11:55.426 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\Grouping.xml
+
+20:12:06.142 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+20:12:06.323 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+20:12:07.410 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on my register link
+20:12:07.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+20:12:11.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue........
+20:12:11.505 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message....
+20:12:11.510 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ******
+20:12:14.443 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+20:12:17.539 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+20:14:09.616 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+20:14:10.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\Grouping.xml
+
+20:14:19.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+20:14:19.897 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+20:14:21.255 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on my register link
+20:14:21.255 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+20:14:26.432 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue........
+20:14:26.490 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message....
+20:14:26.498 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ******
+20:14:31.216 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+20:14:35.263 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+20:18:16.467 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+20:18:16.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\Grouping.xml
+

@@ -1,0 +1,63 @@
+16:27:42.214 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+16:27:43.934 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+16:28:23.097 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\testng.xml"
+16:28:23.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\testng.xml
+
+16:30:53.822 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\testng.xml"
+16:30:54.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\testng.xml
+
+16:40:18.820 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\testng.xml"
+16:40:19.218 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\testng.xml
+
+16:42:16.306 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\testng.xml"
+16:42:16.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\testng.xml
+
+16:43:03.599 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\testng.xml"
+16:43:03.992 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\testng.xml
+
+16:43:12.823 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+16:43:12.947 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+16:43:13.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on my register link
+16:43:13.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+16:43:17.487 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue........
+16:43:17.683 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message....
+16:43:17.697 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ******
+16:43:22.016 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+16:43:23.749 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+16:46:08.323 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\crossbrowsertesting.xml"
+16:46:08.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\crossbrowsertesting.xml
+
+16:46:16.790 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+16:46:16.791 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+16:46:17.015 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+16:46:17.051 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+19:11:04.637 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\crossbrowsertesting.xml"
+19:11:05.236 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\crossbrowsertesting.xml
+
+19:11:12.483 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+19:11:12.485 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+19:11:12.726 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+19:11:12.786 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+19:16:02.872 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\crossbrowsertesting.xml"
+19:16:03.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\crossbrowsertesting.xml
+
+19:16:08.452 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+19:16:09.248 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+19:16:11.183 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on my register link
+19:16:11.184 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+19:16:32.710 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+19:16:33.797 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+19:16:34.672 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+19:16:36.640 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on my register link
+19:16:36.641 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+19:16:43.142 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue........
+19:16:43.219 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message....
+19:16:43.219 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ******

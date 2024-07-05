@@ -1,0 +1,70 @@
+19:17:55.237 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\crossbrowsertesting.xml"
+19:17:55.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\crossbrowsertesting.xml
+
+19:18:00.785 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+19:18:01.525 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+19:18:02.212 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** starting TC_001_AccountRegistrationTest *** 
+19:18:02.367 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on my account link
+19:18:02.723 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on my register link
+19:18:02.724 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+19:18:03.226 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on my register link
+19:18:03.226 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+19:18:05.301 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue........
+19:18:05.408 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue........
+19:18:25.529 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message....
+19:18:25.531 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test is failed
+19:18:31.858 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message....
+19:18:31.858 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test is failed
+10:26:34.874 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+10:27:47.241 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+10:27:47.899 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\grid-docker.xml
+
+10:29:15.754 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+10:29:16.801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\grid-docker.xml
+
+10:36:17.223 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+10:36:17.801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\grid-docker.xml
+
+10:46:59.667 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+10:47:00.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\grid-docker.xml
+
+10:58:15.954 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+10:58:47.489 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+10:58:48.301 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\grid-docker.xml
+
+11:02:34.628 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+11:02:35.380 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\grid-docker.xml
+
+11:23:07.164 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\grid-docker.xml"
+11:23:07.911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\grid-docker.xml
+
+17:13:21.986 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\testng.xml"
+17:14:17.403 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\testng.xml"
+17:17:16.707 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+17:19:23.603 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+17:19:24.345 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\Grouping.xml
+
+17:20:07.624 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+17:20:08.340 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\Grouping.xml
+
+17:28:51.819 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+17:28:52.492 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Core Java\opencart\Grouping.xml
+
+17:29:01.355 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+17:29:05.067 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+17:29:52.167 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+17:29:58.271 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+17:30:01.449 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
+08:35:32.314 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Core Java\opencart\Grouping.xml"
+08:35:50.944 [main] INFO  testCases.TC_002_LoginTest - ****** Starting TC_002_LoginTest ****
